@@ -17,7 +17,3 @@
 4.  .gitignore faylini yaratish
 
 venv/ papkasi gitga kiritilmasligi uchun .gitignore faylga qo‘shildi.
-
-
-
-
